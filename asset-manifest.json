@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aadikamath080410/MAD-LAB.git/static/css/main.f9848e72.css",
+    "main.js": "/Aadikamath080410/MAD-LAB.git/static/js/main.5d1ca415.js",
+    "static/js/453.f6199abb.chunk.js": "/Aadikamath080410/MAD-LAB.git/static/js/453.f6199abb.chunk.js",
+    "index.html": "/Aadikamath080410/MAD-LAB.git/index.html",
+    "main.f9848e72.css.map": "/Aadikamath080410/MAD-LAB.git/static/css/main.f9848e72.css.map",
+    "main.5d1ca415.js.map": "/Aadikamath080410/MAD-LAB.git/static/js/main.5d1ca415.js.map",
+    "453.f6199abb.chunk.js.map": "/Aadikamath080410/MAD-LAB.git/static/js/453.f6199abb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9848e72.css",
+    "static/js/main.5d1ca415.js"
+  ]
+}
